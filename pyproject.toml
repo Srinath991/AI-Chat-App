@@ -1,7 +1,7 @@
 [project]
-name = "demo"
+name = "Gemini  Chatbot"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is a FastAPI-based web application that provides a chat interface powered by Google's Gemini AI model through LangChain."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
