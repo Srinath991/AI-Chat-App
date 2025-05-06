@@ -34,8 +34,9 @@ uv pip install -e .
 4. Set up your Google Cloud API key:
    - Get your API key from the Google Cloud Console
    - Set it as an environment variable:
+   - create .env file and add GOOGLE_API_KEY
 ```bash
-export GOOGLE_API_KEY="your-api-key-here"  # On Windows, use `set GOOGLE_API_KEY=your-api-key-here`
+GOOGLE_API_KEY="your-api-key-here" 
 ```
 
 ## Running the Application
