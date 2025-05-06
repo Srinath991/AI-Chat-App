@@ -12,8 +12,8 @@ This is a FastAPI-based web application that provides a chat interface powered b
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/Srinath991/AI-Chat-App
+cd AI-Chat-App
 ```
 
 2. Create and activate a virtual environment:
@@ -78,6 +78,3 @@ The application will be running in development mode with hot-reload enabled.
 
 The application uses FastAPI's hot-reload feature, so any changes to the code will automatically restart the server.
 
-## License
-
-[Add your license information here]
